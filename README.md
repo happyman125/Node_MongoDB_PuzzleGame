@@ -50,7 +50,7 @@ function pickColor(remain, combo, rules){
 </p></details>
   
 The tool is deployed on Heroku since 7/6/2019. It got more than 4000 views within one week, and it has about 150 views per day. Feel free to use it and please contact me if you have any suggestion!   
-[Link](https://puzzle-and-dragons-amen-helper.herokuapp.com/)  
+
 ![GUI of the tool](https://github.com/joeychang0204/Puzzle-And-Dragons-Amen-Helper/blob/master/public/images/GUI.png)  
   
 
@@ -58,7 +58,6 @@ The tool is deployed on Heroku since 7/6/2019. It got more than 4000 views withi
 [Website Template](https://github.com/google/web-starter-kit)  
 [JQuery Session](https://github.com/AlexChittock/JQuery-Session-Plugin)  
 [View Counter](https://bootsnipp.com/snippets/5K6WW)  
-[Bicolor](http://h-pon.doorblog.jp/archives/51705365.html)  
-[Tricolor - by 二アさん](https://www.youtube.com/watch?v=EN_84_OdjqI)  
-[General Multi Color - by ダチョーさん](https://www.youtube.com/watch?v=Yv5w9u-qlhI)
+
+
 
